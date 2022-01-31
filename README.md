@@ -1,6 +1,6 @@
 ## 👋 홍석우(Android Developer)
 ---
-### 누군가에게 추억으로 남길 수 있는 앱을 만드는 것을 목표로 개발을 하고 있습니다.
+### 추억으로 남길 수 있는 앱을 만드는 것을 목표로 개발을 하고 있습니다.
 - :green_book:Notion: https://c0deh0ng.notion.site/9b7ca30f9e3a434f97194066d69a4083
 - :notebook_with_decorative_cover:Blog: https://c0deh0ng.tistory.com
 
